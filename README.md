@@ -86,4 +86,4 @@ June 2026
 ## Related work
 
 - Phase 2 (RTL-to-GDSII, standard-cell flow): [4×4 Pipelined MAC Unit](https://github.com/GithubJayanta/MAC_unit_4bit)
-- [4-bit Kogge-Stone Adder](https://github.com/GithubJayanta/4-Bit_Kogge_Stone_Adder) — a related micro-architecture/PPA study
+- [4-bit Kogge-Stone Adder](https://github.com/GithubJayanta/4-Bit_Kogge_Stone_Adder) — a related micro-architecture/PPA study 
